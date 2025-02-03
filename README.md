@@ -67,9 +67,7 @@ Os dados foram analisados estatisticamente, com destaque para as seguintes vari�
    A diversidade dos dados é essencial para garantir que o modelo aprenda características relevantes e mais profundas, evitando soluções simples baseadas em alta correlação entre variáveis.
 
 3. **Próximos Passos**:  
-   A etapa de análise exploratória forneceu uma base sólida para os próximos passos do projeto, incluindo o processamento de imagens e o treinamento de modelos de aprendizado profundo.
-
-Com os dados agora mais bem compreendidos e organizados, o projeto está preparado para avançar para fases mais técnicas, como pré-processamento e treinamento de redes neurais.
+   A etapa de análise exploratória forneceu uma base para os próximos passos do projeto, incluindo o processamento de imagens e o treinamento de modelos de aprendizado profundo.
 
 ## Resumo Geral (**mass_case_description_train_set.csv**)
 
